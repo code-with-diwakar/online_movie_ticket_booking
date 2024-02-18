@@ -1,6 +1,5 @@
 # online_movie_ticket_booking
 
-# online-movie-ticket-booking-system-dbms
 DBMS project- Online Movie Ticket Booking System 
 1) download and install xampp
 2) paste this project folder in c:/xampp/htdocs
